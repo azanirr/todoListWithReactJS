@@ -1,0 +1,11 @@
+.completed{
+	list-style-type: none;
+	color: gray;
+	text-decoration: line-through;
+}
+
+.not-completed{
+	list-style-type:none;
+	color: black;
+	text-decoration: none;
+}

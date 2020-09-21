@@ -17,6 +17,7 @@ class App extends Component {
 			edit: false
 			},
 		],
+		
 		filter: [
 			{
 			id: uuidv4(),
